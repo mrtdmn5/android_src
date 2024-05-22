@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ *************************************************************************************************
+  ~ * © 2023 Qualcomm Technologies, Inc. and/or its subsidiaries. All rights reserved.              *
+  ~ *************************************************************************************************
+  -->
+
+
+                                                        
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/fragment_feedback_form_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/default_margin"
+            android:orientation="vertical" android:tag="binding_1">
+
+            <include
+                android:id="@+id/title"
+                layout="@layout/feedback_form_entry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                                                                     
+                                         
+                                                                            
+                                                           />
+
+            <include
+                android:id="@+id/description"
+                layout="@layout/feedback_form_entry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/default_margin_one_and_half"
+                                                                     
+                                           
+                                                                                  
+                                                                 />
+
+            <include
+                android:id="@+id/reporter"
+                layout="@layout/feedback_form_entry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/default_margin_one_and_half"
+                                         
+                                                                               
+                                                              />
+
+            <include
+                android:id="@+id/hardware_version"
+                layout="@layout/feedback_form_entry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/default_margin_one_and_half"
+                                         
+                                                                                        
+                                                                      />
+
+            <Button
+                android:id="@+id/send"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/default_margin_double"
+                android:layout_marginBottom="@dimen/default_margin"
+                android:enabled="false"
+                android:text="@string/button_send" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+         

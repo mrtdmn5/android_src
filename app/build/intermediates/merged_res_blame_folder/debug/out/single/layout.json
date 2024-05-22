@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_music_processing.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_music_processing.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/ring_progress.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/ring_progress.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/media_playback.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/media_playback.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/tag_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/tag_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/download_file_content.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/download_file_content.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_statistics_list.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_statistics_list.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/feedback_form_entry.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/feedback_form_entry.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/feedback_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/feedback_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/gesture_context_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/gesture_context_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_gesture_configuration.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_gesture_configuration.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_information.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_information.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/feedback_content.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/feedback_content.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/preference_media.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/preference_media.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/no_data_message.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/no_data_message.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/title_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/title_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/preference_modes.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/preference_modes.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_discovery.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_discovery.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/feedback_status_bar.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/feedback_status_bar.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_feedback.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/mode_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/mode_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/action_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/action_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_gestures.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_gestures.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/preference_touchpad_indicators.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/preference_touchpad_indicators.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/gesture_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/gesture_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/preference_slider.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/preference_slider.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/download_file_status_bar.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/download_file_status_bar.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/preference_gain.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/preference_gain.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/statistics_statistic_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/statistics_statistic_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_configuration_list.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_configuration_list.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/dialog_statistics_settings.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/dialog_statistics_settings.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_progress.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/preference_left_right_balance.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/preference_left_right_balance.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/file_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/file_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_download_file.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_download_file.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_earbud_fit.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_earbud_fit.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_files.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_files.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/preference_discrete_slider.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/preference_discrete_slider.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_connection.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_connection.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/statistics_category_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/statistics_category_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/device_item.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/device_item.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_feedback_form.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_feedback_form.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.app-mergeDebugResources-53:/layout/fragment_music_processing_labels.xml",
+        "source": "com.qualcomm.qti.gaiaclient.app-main-56:/layout/fragment_music_processing_labels.xml"
+    }
+]

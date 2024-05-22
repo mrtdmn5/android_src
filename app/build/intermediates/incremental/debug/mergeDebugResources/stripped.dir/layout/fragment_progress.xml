@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ *************************************************************************************************
+  ~ * © 2020-2021, 2023 Qualcomm Technologies, Inc. and/or its subsidiaries. All rights reserved.   *
+  ~ *************************************************************************************************
+  -->
+
+
+                                                        
+
+    
+
+                                           
+
+                 
+                           
+                                                                                     
+
+                 
+                             
+                                                                                             
+
+                 
+                               
+                             
+
+                 
+                          
+                            
+
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/default_margin_double"
+        android:padding="@dimen/default_margin" android:tag="layout/fragment_progress_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/horizontal_guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.5" />
+
+        <ProgressBar
+            android:id="@+id/progress_bar_determinate"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_progressbar"
+            android:layout_margin="@dimen/default_margin_half"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"
+            android:tag="binding_1"                              
+            android:progressDrawable="@drawable/progressbar_drawable"
+                                                                                                                          
+            app:layout_constraintBottom_toTopOf="@+id/horizontal_guideline"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ProgressBar
+            android:id="@+id/progress_bar_indeterminate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/default_margin_half"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"
+            android:tag="binding_2"                                                                                        
+            app:layout_constraintBottom_toTopOf="@+id/horizontal_guideline"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/progress_text"
+            style="@style/AppTheme.Text.Message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/default_margin_half"
+            android:layout_marginBottom="@dimen/default_margin_half"
+            android:tag="binding_3"                                                                              
+                                                                                                 
+            android:textAlignment="textEnd"
+                                                                                             
+            app:layout_constraintEnd_toEndOf="@id/progress_bar_determinate"
+            app:layout_constraintTop_toBottomOf="@id/horizontal_guideline" />
+
+        <TextView
+            android:id="@+id/progress_step"
+            style="@style/AppTheme.Text.Message"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/default_margin_half"
+            android:layout_marginBottom="@dimen/default_margin_half"
+            android:tag="binding_4"                                                                       
+                                                                      
+            android:textAlignment="textStart"
+            app:layout_constraintEnd_toStartOf="@+id/progress_text"
+            app:layout_constraintStart_toStartOf="@id/progress_bar_determinate"
+            app:layout_constraintTop_toBottomOf="@id/horizontal_guideline" />
+
+        <TextView
+            android:id="@+id/progress_message"
+            style="@style/AppTheme.Text.Message"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/default_margin_half"
+            android:layout_marginBottom="@dimen/default_margin_half"
+            android:tag="binding_5"                                                          
+                                     
+            android:textAlignment="textStart"
+            app:layout_constraintEnd_toEndOf="@+id/progress_bar_determinate"
+            app:layout_constraintStart_toStartOf="@+id/progress_bar_determinate"
+            app:layout_constraintTop_toBottomOf="@id/progress_step" />
+
+        <Button
+            android:id="@+id/cancel"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_6"                                           
+                                                                           
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_7"                                       
+                                                                           
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+         

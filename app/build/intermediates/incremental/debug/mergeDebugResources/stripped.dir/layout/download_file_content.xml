@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ *************************************************************************************************
+  ~ * © 2023 Qualcomm Technologies, Inc. and/or its subsidiaries. All rights reserved.              *
+  ~ *************************************************************************************************
+  -->
+
+
+                                                        
+
+    
+
+                                           
+
+                 
+                            
+                                                                                       
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" android:tag="layout/download_file_content_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/AppTheme.Text.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="binding_1"                                                      />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/tags"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/default_margin"
+            android:layout_marginBottom="@dimen/default_margin_eighth"
+            android:tag="binding_2"                           
+                                                                                                     
+                                                                   />
+
+        <TextView
+            android:id="@+id/chip_family"
+            style="@style/AppTheme.Text.Secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/default_margin_eighth"
+            android:tag="binding_3"                                                                 />
+
+        <TextView
+            android:id="@+id/date"
+            style="@style/AppTheme.Text.Secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/default_margin_eighth"
+            android:layout_marginBottom="@dimen/default_margin_half"
+            android:tag="binding_4"                                                    />
+
+        <TextView
+            android:id="@+id/description"
+            style="@style/AppTheme.Text.Message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/default_margin_half"
+            android:tag="binding_5"                                                                  />
+
+        <TextView
+            android:id="@+id/id"
+            style="@style/AppTheme.Text.Secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/default_margin_half"
+            android:layout_marginBottom="@dimen/default_margin_eighth"
+            android:tag="binding_6"                                                                                            />
+
+        <TextView
+            android:id="@+id/hardware_versions"
+            style="@style/AppTheme.Text.Secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/default_margin_eighth"
+            android:layout_marginBottom="@dimen/no_margin"
+            android:tag="binding_7"                                                                              
+                                                                                                                            />
+
+    </LinearLayout>
+
+         

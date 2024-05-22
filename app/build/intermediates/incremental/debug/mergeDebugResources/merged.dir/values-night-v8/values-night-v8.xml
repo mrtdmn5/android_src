@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">@color/qualcomm_light_blue_tint_1</color>
+    <color name="colorOnPrimary">@color/black</color>
+    <color name="colorOnToolbar">@color/white</color>
+    <color name="colorPrimary">@color/qualcomm_light_blue_tint_1</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorToolbar">@color/dark_grey_2</color>
+    <color name="download_file_status_bar_background">@color/qualcomm_light_blue_tint_1_alpha_12</color>
+    <color name="drawable_device_primary">@color/qualcomm_gunmetal_light</color>
+    <color name="drawable_device_secondary">@color/qualcomm_gunmetal</color>
+    <color name="drawable_discovery_device_connected_circle">@color/qualcomm_blue_dark_mode</color>
+    <color name="drawable_discovery_device_connected_icon">@color/qualcomm_blue_light_2</color>
+    <color name="drawable_discovery_device_other_circle">@color/dark_grey_1</color>
+    <color name="drawable_discovery_device_other_icon">@color/light_grey_2</color>
+    <color name="drawable_discovery_device_paired_circle">@color/qualcomm_light_blue_tint_2</color>
+    <color name="drawable_discovery_device_paired_icon">@color/qualcomm_light_blue_tint_3</color>
+    <color name="drawable_gesture_primary">@color/colorAccent</color>
+    <color name="eq_graphview_axe_label">@color/text_medium_emphasis_on_dark</color>
+    <color name="eq_graphview_curve">@color/qualcomm_red_luminance_70</color>
+    <color name="eq_graphview_grid">@color/white_alpha_38</color>
+    <color name="feedback_status_bar_background">@color/qualcomm_light_blue_tint_1_alpha_12</color>
+    <color name="filter_not_selected">@color/white_alpha_12</color>
+    <color name="gesture_action_disabled">@color/disabled_on_dark</color>
+    <color name="gesture_action_not_selected">@color/qualcomm_light_blue_tint_1_alpha_40</color>
+    <color name="gesture_action_selected">@color/colorAccent</color>
+    <color name="left_right_balance_touchpad">@color/qualcomm_light_blue_tint_1_alpha_40</color>
+    <color name="left_right_balance_touchpad_disabled">@color/disabled_on_dark</color>
+    <color name="left_right_balance_track_disabled">@color/disabled_on_dark</color>
+    <color name="left_right_balance_track_enabled">@color/qualcomm_light_blue_tint_1_alpha_25</color>
+    <color name="media_button">@color/white_alpha_87</color>
+    <color name="mode_background_disabled">@color/disabled_on_dark</color>
+    <color name="mode_background_not_selected">@color/qualcomm_light_blue_tint_1_alpha_25</color>
+    <color name="mode_background_selected">@color/colorAccent</color>
+    <color name="mode_background_text_disabled">@color/text_disabled_on_dark</color>
+    <color name="mode_background_text_not_selected">@color/text_medium_emphasis_on_dark</color>
+    <color name="mode_background_text_selected">@color/text_high_emphasis_on_light</color>
+    <color name="mode_circle_disabled">@color/disabled_on_dark</color>
+    <color name="mode_circle_not_selected">@color/qualcomm_light_blue_tint_2</color>
+    <color name="mode_circle_selected">@color/black_alpha_60</color>
+    <color name="mode_circle_text_disabled">@color/text_disabled_on_dark</color>
+    <color name="mode_circle_text_not_selected">@color/text_medium_emphasis_on_light</color>
+    <color name="mode_circle_text_selected">@color/text_high_emphasis_on_dark</color>
+    <color name="preset_disabled">@color/disabled_on_dark</color>
+    <color name="preset_not_selected">@color/qualcomm_light_blue_tint_1_alpha_12</color>
+    <color name="preset_selected">@color/colorAccent</color>
+    <color name="preset_text_disabled">@color/text_disabled_on_dark</color>
+    <color name="preset_text_not_selected">@color/text_medium_emphasis_on_dark</color>
+    <color name="preset_text_selected">@color/text_high_emphasis_on_light</color>
+    <color name="progress">@color/colorAccent</color>
+    <color name="progress_background">@color/qualcomm_light_blue_tint_1_alpha_25</color>
+    <color name="ring_progress_background_disabled">@color/disabled_on_dark</color>
+    <color name="ring_progress_background_enabled">@color/qualcomm_light_blue_tint_1_alpha_25</color>
+    <color name="ring_progress_label_disabled">@color/text_disabled_on_dark</color>
+    <color name="ring_progress_label_enabled">@color/text_medium_emphasis_on_dark</color>
+    <color name="ring_progress_progress_tone_1_disabled">@color/disabled_on_dark</color>
+    <color name="ring_progress_progress_tone_1_enabled">@color/colorAccent</color>
+    <color name="ring_progress_progress_tone_2_disabled">@color/disabled_on_dark</color>
+    <color name="ring_progress_progress_tone_2_enabled">@color/qualcomm_light_blue_tint_1_alpha_40</color>
+    <color name="ring_progress_value_disabled">@color/text_disabled_on_dark</color>
+    <color name="ring_progress_value_enabled">@color/colorAccent</color>
+    <color name="statistics_action_button_background_not_selected">@color/colorAccent</color>
+    <color name="statistics_action_button_background_selected">@color/qualcomm_red_luminance_70</color>
+    <color name="statistics_recording_indicator">@color/qualcomm_red_luminance_70</color>
+    <color name="tag_1_background">@color/qualcomm_light_blue_tint_1_alpha_88</color>
+    <color name="tag_1_text">@color/text_high_emphasis_on_dark</color>
+    <color name="tag_2_background">@color/qualcomm_light_blue_tint_2_alpha_88</color>
+    <color name="tag_2_text">@color/text_high_emphasis_on_light</color>
+    <color name="tag_3_background">@color/qualcomm_light_blue_tint_1_alpha_25</color>
+    <color name="tag_3_text">@color/qualcomm_light_blue_tint_2_alpha_88</color>
+    <color name="tag_4_background">@color/qualcomm_light_blue_tint_1_100_alpha_88</color>
+    <color name="tag_4_text">@color/text_high_emphasis_on_light</color>
+    <color name="tag_5_background">@color/qualcomm_light_blue_tint_1_alpha_40</color>
+    <color name="tag_5_text">@color/qualcomm_light_blue_tint_1_100_alpha_88</color>
+    <color name="tag_6_background">@color/qualcomm_light_blue_tint_1_50_alpha_88</color>
+    <color name="tag_6_text">@color/text_high_emphasis_on_light</color>
+    <color name="tag_7_background">@color/qualcomm_light_blue_tint_1_alpha_25</color>
+    <color name="tag_7_text">@color/text_high_emphasis_on_dark</color>
+    <color name="text_high_emphasis">@color/text_high_emphasis_on_dark</color>
+    <color name="text_light_emphasis">@color/text_light_emphasis_on_dark</color>
+    <color name="text_medium_emphasis">@color/text_medium_emphasis_on_dark</color>
+    <color name="title_high_emphasis">@color/text_high_emphasis_on_dark</color>
+    <color name="title_medium_emphasis">@color/text_medium_emphasis_on_dark</color>
+    <color name="touchpad_indicator_disabled">@color/disabled_on_dark</color>
+    <color name="touchpad_indicator_not_selected">@color/qualcomm_light_blue_tint_1_alpha_40</color>
+    <color name="touchpad_indicator_selected">@color/colorAccent</color>
+    <color name="vertical_slider_label">@color/text_medium_emphasis_on_dark</color>
+    <color name="vertical_slider_label_button_background">@color/qualcomm_light_blue_tint_1_alpha_12</color>
+    <color name="vertical_slider_progress">@color/colorAccent</color>
+    <color name="vertical_slider_progress_background">@color/qualcomm_light_blue_tint_1_alpha_25</color>
+    <color name="vertical_slider_progress_background_notch">@color/black</color>
+    <color name="vertical_slider_progress_notch">@color/black</color>
+    <color name="vertical_slider_thumb">@color/colorAccent</color>
+    <style name="AppTheme.TabLayout" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabTextColor">@color/tab_text_color</item>
+        <item name="tabIndicatorColor">@color/colorPrimary</item>
+        <item name="android:soundEffectsEnabled">false</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="Theme.Material3.DayNight" parent="Theme.Material3.Dark"/>
+    <style name="Theme.Material3.DayNight.BottomSheetDialog" parent="Theme.Material3.Dark.BottomSheetDialog"/>
+    <style name="Theme.Material3.DayNight.Dialog" parent="Theme.Material3.Dark.Dialog"/>
+    <style name="Theme.Material3.DayNight.Dialog.Alert" parent="Theme.Material3.Dark.Dialog.Alert"/>
+    <style name="Theme.Material3.DayNight.Dialog.MinWidth" parent="Theme.Material3.Dark.Dialog.MinWidth"/>
+    <style name="Theme.Material3.DayNight.DialogWhenLarge" parent="Theme.Material3.Dark.DialogWhenLarge"/>
+    <style name="Theme.Material3.DayNight.NoActionBar" parent="Theme.Material3.Dark.NoActionBar"/>
+    <style name="Theme.Material3.DynamicColors.DayNight" parent="Theme.Material3.DynamicColors.Dark"/>
+    <style name="Theme.MaterialComponents.DayNight" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="Theme.MaterialComponents.BottomSheetDialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="Theme.MaterialComponents.Dialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="Theme.MaterialComponents.Dialog.Alert"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="Theme.MaterialComponents.Dialog.Alert.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="Theme.MaterialComponents.Dialog.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="Theme.MaterialComponents.Dialog.FixedSize"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="Theme.MaterialComponents.Dialog.FixedSize.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="Theme.MaterialComponents.Dialog.MinWidth"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="Theme.MaterialComponents.Dialog.MinWidth.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="Theme.MaterialComponents.DialogWhenLarge"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="Theme.MaterialComponents.NoActionBar"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="Theme.MaterialComponents.NoActionBar.Bridge"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.Material3.DynamicColors.DayNight" parent="ThemeOverlay.Material3.DynamicColors.Dark"/>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="Widget.MaterialComponents.ActionBar.Surface"/>
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="Widget.MaterialComponents.AppBarLayout.Surface"/>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="Widget.MaterialComponents.BottomAppBar"/>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="Widget.MaterialComponents.BottomNavigationView"/>
+    <style name="Widget.MaterialComponents.NavigationRailView.PrimarySurface" parent="Widget.MaterialComponents.NavigationRailView"/>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="Widget.MaterialComponents.TabLayout"/>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="Widget.MaterialComponents.Toolbar.Surface"/>
+</resources>

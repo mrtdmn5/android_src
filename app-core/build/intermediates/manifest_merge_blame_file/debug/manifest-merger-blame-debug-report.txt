@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ ************************************************************************************************
+4  ~ * © 2020, 2022-2023 Qualcomm Technologies, Inc. and/or its subsidiaries. All rights reserved.  *
+5  ~ ************************************************************************************************
+6-->
+7<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+8    xmlns:tools="http://schemas.android.com/tools"
+9    package="com.qualcomm.qti.gaiaclient.core" >
+10
+11    <uses-sdk
+12        android:minSdkVersion="27"
+12-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+13        android:targetSdkVersion="33" />
+13-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+14
+15    <!--
+16         Location permissions
+17            required to scan for Bluetooth devices for SDK <= API 30
+18    -->
+19    <uses-permission
+19-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:12:5-108
+20        android:name="android.permission.ACCESS_COARSE_LOCATION"
+20-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:12:22-78
+21        android:maxSdkVersion="28" />
+21-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:12:79-105
+22    <uses-permission
+22-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:13:5-106
+23        android:name="android.permission.ACCESS_FINE_LOCATION"
+23-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:13:22-76
+24        android:maxSdkVersion="30" />
+24-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:13:77-103
+25
+26    <!-- Bluetooth Legacy permissions for Android devices <= API 30 -->
+27    <!-- to scan for Bluetooth devices and connect to them. -->
+28    <uses-permission
+28-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:17:5-95
+29        android:name="android.permission.BLUETOOTH"
+29-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:17:22-65
+30        android:maxSdkVersion="30" />
+30-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:17:66-92
+31    <!-- to fetch SDP records and access UUIDs. -->
+32    <uses-permission
+32-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:19:5-101
+33        android:name="android.permission.BLUETOOTH_ADMIN"
+33-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:19:22-71
+34        android:maxSdkVersion="30" />
+34-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:19:72-98
+35
+36    <!-- Bluetooth permissions for Android devices > API 30 -->
+37    <!-- To scan for devices -->
+38    <uses-permission
+38-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:23:5-24:58
+39        android:name="android.permission.BLUETOOTH_SCAN"
+39-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:23:22-70
+40        android:usesPermissionFlags="neverForLocation"
+40-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:24:9-55
+41        tools:targetApi="S" />
+41-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:23:71-90
+42    <!-- to access BluetoothDevice data (scan result for classic devices) and connect to devices. -->
+43    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+43-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:26:5-76
+43-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:26:22-73
+44
+45    <!-- module is only compatible with Android devices that have Bluetooth -->
+46    <uses-feature
+46-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:29:5-87
+47        android:name="android.hardware.bluetooth"
+47-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:29:19-60
+48        android:required="true" />
+48-->C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:29:61-84
+49
+50</manifest>

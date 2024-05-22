@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ *************************************************************************************************
+  ~ * © 2021 Qualcomm Technologies, Inc. and/or its subsidiaries. All rights reserved.              *
+  ~ *************************************************************************************************
+  -->
+
+
+                                                        
+
+    
+                                           
+
+                 
+                           
+                                                                                           
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" android:tag="layout/gesture_context_item_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <TextView
+            android:id="@+id/context_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/default_margin"
+            android:tag="binding_1"         
+            android:textAppearance="@android:style/TextAppearance.Material.Body2"
+            android:textColor="?android:attr/colorAccent" />
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/selection_type_switch"
+            android:theme="@style/AppTheme.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="binding_2"                    
+                                                         
+            android:paddingHorizontal="@dimen/default_margin"
+            android:text="@string/gesture_configuration_switch"
+            android:textAppearance="?android:attr/textAppearanceListItem"
+                                                                                        />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/actions_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:nestedScrollingEnabled="false"
+            app:layoutManager="LinearLayoutManager" />
+
+    </LinearLayout>
+
+         

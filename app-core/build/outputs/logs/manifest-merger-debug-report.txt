@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:7:1-31:12
+INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:7:1-31:12
+INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:7:1-31:12
+	package
+		INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:7:1-31:12
+		INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:8:5-51
+	xmlns:android
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:7:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:12:5-108
+	android:maxSdkVersion
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:12:79-105
+	android:name
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:13:5-106
+	android:maxSdkVersion
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:13:77-103
+	android:name
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:17:5-95
+	android:maxSdkVersion
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:17:66-92
+	android:name
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:19:5-101
+	android:maxSdkVersion
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:19:72-98
+	android:name
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:19:22-71
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:23:5-24:58
+	android:usesPermissionFlags
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:24:9-55
+	tools:targetApi
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:23:71-90
+	android:name
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:26:22-73
+uses-feature#android.hardware.bluetooth
+ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:29:5-87
+	android:required
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:29:61-84
+	android:name
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml:29:19-60
+uses-sdk
+INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+		INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+		ADDED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml
+		INJECTED from C:\gaia-client-src-1-0_qtil_standard_oem_android-master-b523e69bc6cb2a393cb6f83e195df45b3d9d33a7\android_src\app-core\src\main\AndroidManifest.xml

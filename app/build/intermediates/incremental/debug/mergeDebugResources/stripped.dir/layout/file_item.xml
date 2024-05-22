@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ *************************************************************************************************
+  ~ * © 2023 Qualcomm Technologies, Inc. and/or its subsidiaries. All rights reserved.              *
+  ~ *************************************************************************************************
+  -->
+
+                                                                   
+
+    
+
+                                           
+
+                 
+                       
+                                                                               
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/default_margin"
+        android:minHeight="@dimen/height_device_item_min"
+        android:orientation="vertical" android:tag="layout/file_item_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/file_title"
+            style="@style/AppTheme.Text.File.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="binding_1"                                        
+            android:ellipsize="end"
+            android:maxLines="2" />
+
+        <TextView
+            android:id="@+id/file_created_on"
+            style="@style/AppTheme.Text.List.Secondary"
+            android:textColor="@color/text_light_emphasis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="binding_2"                                                    
+                                             />
+
+        <TextView
+            android:id="@+id/file_description"
+            style="@style/AppTheme.Text.List.Secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="binding_3"                                                    
+            android:ellipsize="end"
+            android:maxLines="3" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/file_tags"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="binding_4"              
+                                                                                    />
+
+    </LinearLayout>
+
+         
